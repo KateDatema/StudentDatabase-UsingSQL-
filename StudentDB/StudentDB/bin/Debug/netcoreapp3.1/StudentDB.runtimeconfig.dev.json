@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kate Datema\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kate Datema\\.nuget\\packages"
+    ]
+  }
+}
